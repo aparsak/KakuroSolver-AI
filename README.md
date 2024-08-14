@@ -12,7 +12,8 @@ Kakuro is a logic-based puzzle that combines elements of crossword puzzles and S
 - **Flexible Grid Size**: Handles Kakuro puzzles of different sizes and complexities.
 
 ## 🧩 Here's a Kakuro Example
-![Kakuro Example](kakuro_example.png)
+![Kakuro Example](/example.png)
+
 
 
 ## 🚀 Getting Started
